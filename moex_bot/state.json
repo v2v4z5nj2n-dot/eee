@@ -1,0 +1,38 @@
+{
+ "watchlist": [
+  "SBER",
+  "LKOH",
+  "X5",
+  "YDEX",
+  "GAZP",
+  "OZON",
+  "T",
+  "POSI",
+  "ROSN",
+  "NVTK",
+  "TATN",
+  "SNGS",
+  "GMKN",
+  "PLZL",
+  "MTSS",
+  "MGNT",
+  "MOEX",
+  "VTBR",
+  "ALRS",
+  "CHMF",
+  "NLMK",
+  "AFLT",
+  "PIKK",
+  "SMLT",
+  "IRAO",
+  "RUAL",
+  "PHOR",
+  "EUTR",
+  "MTLR"
+ ],
+ "last_alert": {
+  "SMLT": "2026-10-05",
+  "IRAO": "2026-10-04"
+ },
+ "last_scan": ""
+}
